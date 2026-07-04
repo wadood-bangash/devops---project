@@ -216,3 +216,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Virtual environments (your wenv/ folder)
+venv/
+wenv/
+env/
+.env/
+
+# Logs
+*.log
+health.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Docker (for later)
+*.tar
+*.pid
